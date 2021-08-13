@@ -1,0 +1,3 @@
+C:\Users\alina\Desktop\DentistApp-master\DentistApp\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\alina\Desktop\Dentist App\DentistApp\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\alina\Desktop\Free Lancing\Task 20 Dentist App\Dentist App\DentistApp\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
